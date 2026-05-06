@@ -88,7 +88,7 @@ Base de données (MySQL) : stockage structuré des données
 📦 Installation et exécution
 
 1. Cloner le projet
-git clone https://github.com/votre-utilisateur/tripcolis.git
+git clone https://github.com/the18ines/TripColis.git
 
 2. Installer un serveur local
 Installer XAMPP ou WAMP
